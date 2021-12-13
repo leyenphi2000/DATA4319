@@ -1,6 +1,6 @@
 # DATA4319 - Statistical and Machine Learning
 
-![](https://miro.medium.com/max/2244/0*IT9aLhgbOVDkMNKM)
+![Cartoon Infographic on Building the Machine Learning Model.](https://miro.medium.com/max/2244/0*IT9aLhgbOVDkMNKM)
 
 
 ### Supervised learning:
@@ -30,5 +30,5 @@
 - Email: DavilaR@uhd.edu
 
 ### Course Description:
-
-This data science course covers algorithms from supervised learning, unsupervised learning, and if time permits, reinforcement learning.
+This data science course covers algorithms from supervised learning, unsupervised learning, and if time permits, reinforcement learning. Taught by Dr. Randy Davila at University of Houston Downtown in FALL 2021.
+Youtube Channel link for his lectures: https://www.youtube.com/watch?v=6QlKp_B9hyc&list=PLiUo37D6MN3HGEn8tbMexqwr2ESLHvQ0y
