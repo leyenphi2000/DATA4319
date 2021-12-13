@@ -3,7 +3,7 @@
 ![Cartoon Infographic on Building the Machine Learning Model.](https://miro.medium.com/max/2244/0*IT9aLhgbOVDkMNKM)
 
 
-### Supervised learning:
+### Supervised Learning:
 - Model Building and Error Analysis
 - Linear Regression
 - Gradient Descent
@@ -15,7 +15,7 @@
 - Ensemble Learning
 
 
-### Unsupervised learning: 
+### Unsupervised Learning: 
 - The K-Means Clustering 
 - Principle Component Analysis
 
