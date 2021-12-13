@@ -21,8 +21,12 @@
 - The K-Means Clustering 
 - Principle Component Analysis
 
+![](https://miro.medium.com/max/1400/1*B3rECTf8kNC3Z_oWmWgHng.jpeg)
+
 ### Reinforcement Learning:
 - The REINFORCE Algorithm 
+
+![](https://i1.wp.com/techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/08/Reinforcement-Learning-in-ML-TV.jpg?ssl=1)
 
 ### Instructor:
 - Randy Davila, Ph.D.
