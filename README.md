@@ -1,5 +1,7 @@
 # DATA4319 - Statistical and Machine Learning
+
 - This is my GitHub for the projects that we worked on the course in FALL 2021 for the Data Science major at University of Houston-Downtown, Houston, Texas. 
+
 ![Cartoon Infographic on Building the Machine Learning Model.](https://miro.medium.com/max/2244/0*IT9aLhgbOVDkMNKM)
 
 
