@@ -1,5 +1,7 @@
 # DATA4319 - Statistical and Machine Learning
 
+![](https://miro.medium.com/max/2244/0*IT9aLhgbOVDkMNKM)
+
 
 ### Supervised learning:
 - Model Building and Error Analysis
